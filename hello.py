@@ -8,5 +8,5 @@ y = 2
 z = x+y+a
 print(z)
 
-userNum = input(print("enter a number 1-10"))
-print(userNum)
+# adding another line of code to practice pushing it back to remote repository
+print(z + a)
